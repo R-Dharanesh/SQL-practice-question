@@ -1,0 +1,2 @@
+SELECT distinct city as unique_cities from patients 
+where province_id='NS';
